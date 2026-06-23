@@ -5,7 +5,7 @@
 🔗 **Live Demo:** *[https://hagerhamdy-dev.github.io/school-explorer-webgis/]*
 ---
 
-## 📌 Overview
+##  Overview
 
 School Explorer transforms a static dataset of school locations into an interactive mapping experience. Users can filter schools by governorate and district, instantly see how many schools match their filter, and view details for each school through map popups — all running entirely client-side, with no backend required.
 
@@ -54,12 +54,13 @@ This is a static front-end application — no build step required.
 ```
 
 ## 🗺️ Roadmap
+
 - [ ] Complete the school application/document submission form
 - [ ] Add marker clustering for dense areas
 - [ ] Add a loading indicator while data loads
 
 ## 👤 Author
+
 **Hager Hamdy** — Web GIS Developer
 [LinkedIn](https://www.linkedin.com/in/hager-hamdy-dev/) · [GitHub](https://github.com/hagerhamdy-dev)
-**Hager Hamdy** — Web GIS Developer
-[LinkedIn](#) · [GitHub](#)
+
