@@ -1,0 +1,1383 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5084917,
+                    29.9852134
+                ]
+            },
+            "properties": {
+                "id": 3,
+                "address": "شارع 16، حي مصر الجديدة، بجوار النادي",
+                "gov_name": "القاهرة",
+                "school_name": "El Safwa Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 65000,
+                "district_name": "مصر الجديدة",
+                "students_count": 750,
+                "buildings_count": 3,
+                "application_fees": 1200,
+                "education_system": "لغات",
+                "application_start": "2025-04-15",
+                "educational_levels": "KG - ابتدائي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.40989918,
+                    29.98119761
+                ]
+            },
+            "properties": {
+                "id": 2,
+                "address": "شارع 65، حي مصر الجديدة، بجوار النادي",
+                "gov_name": "القاهرة",
+                "school_name": "Al Amal Governmental School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "مصر الجديدة",
+                "students_count": 985,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-10",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.53443212,
+                    29.98126189
+                ]
+            },
+            "properties": {
+                "id": 4,
+                "address": "شارع 27، حي المعادي، بجوار المعهد",
+                "gov_name": "القاهرة",
+                "school_name": "Al Azhar El Nour Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "المعادي",
+                "students_count": 1100,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-07-01",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2661884,
+                    29.9840256
+                ]
+            },
+            "properties": {
+                "id": 5,
+                "address": "شارع 61، حي حدائق حلوان، بجوار المدرسة الدولية",
+                "gov_name": "الجيزة",
+                "school_name": "Future International School",
+                "school_type": "دولية",
+                "tuition_fees": 280000,
+                "district_name": "حدائق حلوان",
+                "students_count": 820,
+                "buildings_count": 4,
+                "application_fees": 4500,
+                "education_system": "British",
+                "application_start": "2025-03-01",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2015216,
+                    30.0404875
+                ]
+            },
+            "properties": {
+                "id": 6,
+                "address": "شارع 46، حي الدقي، بجوار المركز الحكومي",
+                "gov_name": "الجيزة",
+                "school_name": "Al Amal Public School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "الدقي",
+                "students_count": 1050,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-15",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.23737019,
+                    30.0181003
+                ]
+            },
+            "properties": {
+                "id": 7,
+                "address": "شارع 51، حي مصر القديمة، بجوار المسجد",
+                "gov_name": "القاهرة",
+                "school_name": "Al Azhar Misr El Qadima",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "مصر القديمة",
+                "students_count": 990,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-07-05",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.21888106,
+                    30.06480603
+                ]
+            },
+            "properties": {
+                "id": 8,
+                "address": "شارع 19، حي الزمالك، بجوار النادي",
+                "gov_name": "القاهرة",
+                "school_name": "Zamalek Stars Academy",
+                "school_type": "خاصة",
+                "tuition_fees": 72000,
+                "district_name": "الزمالك",
+                "students_count": 680,
+                "buildings_count": 3,
+                "application_fees": 1500,
+                "education_system": "لغات",
+                "application_start": "2025-04-20",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.25863257,
+                    30.0628106
+                ]
+            },
+            "properties": {
+                "id": 9,
+                "address": "شارع 19، حي العباسية، بجوار الجامعة",
+                "gov_name": "القاهرة",
+                "school_name": "Abbasiya International School",
+                "school_type": "دولية",
+                "tuition_fees": 350000,
+                "district_name": "العباسية",
+                "students_count": 770,
+                "buildings_count": 4,
+                "application_fees": 5500,
+                "education_system": "American",
+                "application_start": "2025-03-10",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.28548234,
+                    30.06876125
+                ]
+            },
+            "properties": {
+                "id": 10,
+                "address": "شارع 23، حي مدينة نصر، بجوار المستشفى",
+                "gov_name": "القاهرة",
+                "school_name": "Nasr City Governmental",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "مدينة نصر",
+                "students_count": 950,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-20",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.32428497,
+                    30.04515772
+                ]
+            },
+            "properties": {
+                "id": 11,
+                "address": "شارع 99، حي مدينة نصر، بجوار مركز التسوق",
+                "gov_name": "القاهرة",
+                "school_name": "Nasr City Private Academy",
+                "school_type": "خاصة",
+                "tuition_fees": 78000,
+                "district_name": "مدينة نصر",
+                "students_count": 710,
+                "buildings_count": 3,
+                "application_fees": 2000,
+                "education_system": "American",
+                "application_start": "2025-05-01",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.40100389,
+                    30.06526851
+                ]
+            },
+            "properties": {
+                "id": 12,
+                "address": "شارع 30، حي المقطم، بجوار المعهد الديني",
+                "gov_name": "القاهرة",
+                "school_name": "Mokattam Azhar Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "المقطم",
+                "students_count": 1020,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-07-15",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.28238548,
+                    30.02451149
+                ]
+            },
+            "properties": {
+                "id": 13,
+                "address": "شارع 99، حي المقطم، بجوار الكومباوند",
+                "gov_name": "القاهرة",
+                "school_name": "Mokattam British School",
+                "school_type": "دولية",
+                "tuition_fees": 250000,
+                "district_name": "المقطم",
+                "students_count": 690,
+                "buildings_count": 4,
+                "application_fees": 4000,
+                "education_system": "British",
+                "application_start": "2025-03-15",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.30686247,
+                    29.99812812
+                ]
+            },
+            "properties": {
+                "id": 14,
+                "address": "شارع 61، حي شبرا الخيمة، بجوار الوحدة الصحية",
+                "gov_name": "القليوبية",
+                "school_name": "Shoubra El Kheima Public",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "شبرا الخيمة",
+                "students_count": 1150,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-25",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2208126,
+                    30.1215412
+                ]
+            },
+            "properties": {
+                "id": 15,
+                "address": "شارع 96، حي قليوب، بجوار النادي",
+                "gov_name": "القليوبية",
+                "school_name": "Qalyub Elite Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 48000,
+                "district_name": "قليوب",
+                "students_count": 650,
+                "buildings_count": 3,
+                "application_fees": 1000,
+                "education_system": "لغات",
+                "application_start": "2025-05-05",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.22798781,
+                    30.1464042
+                ]
+            },
+            "properties": {
+                "id": 16,
+                "address": "شارع 83، حي الشيخ زايد، بجوار الجامعة",
+                "gov_name": "الجيزة",
+                "school_name": "Sheikh Zayed Azhar Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "الشيخ زايد",
+                "students_count": 970,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-07-20",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.21038823,
+                    30.16928269
+                ]
+            },
+            "properties": {
+                "id": 17,
+                "address": "شارع 38، حي 6 أكتوبر، بجوار المجمع التجاري",
+                "gov_name": "الجيزة",
+                "school_name": "October International Academy",
+                "school_type": "دولية",
+                "tuition_fees": 400000,
+                "district_name": "6 أكتوبر",
+                "students_count": 790,
+                "buildings_count": 5,
+                "application_fees": 6000,
+                "education_system": "IG",
+                "application_start": "2025-03-20",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.97662247,
+                    30.06292864
+                ]
+            },
+            "properties": {
+                "id": 18,
+                "address": "شارع 76، حي 6 أكتوبر، بجوار المركز الرياضي",
+                "gov_name": "الجيزة",
+                "school_name": "October Governmental School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "6 أكتوبر",
+                "students_count": 1000,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-01",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.90079127,
+                    30.04970155
+                ]
+            },
+            "properties": {
+                "id": 19,
+                "address": "شارع 27، حي أشمون، بجوار المستشفى",
+                "gov_name": "المنوفية",
+                "school_name": "Ashmoun Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 42000,
+                "district_name": "أشمون",
+                "students_count": 600,
+                "buildings_count": 3,
+                "application_fees": 800,
+                "education_system": "لغات",
+                "application_start": "2025-04-25",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.87069034,
+                    29.99386777
+                ]
+            },
+            "properties": {
+                "id": 20,
+                "address": "شارع 14، حي منوف، بجوار المسجد الكبير",
+                "gov_name": "المنوفية",
+                "school_name": "Menouf Azhar Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "منوف",
+                "students_count": 930,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-07-25",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.93728479,
+                    29.95561243
+                ]
+            },
+            "properties": {
+                "id": 21,
+                "address": "شارع 4، حي شبين الكوم، بجوار جامعة المنوفية",
+                "gov_name": "المنوفية",
+                "school_name": "Shebin El Kom International School",
+                "school_type": "دولية",
+                "tuition_fees": 320000,
+                "district_name": "شبين الكوم",
+                "students_count": 720,
+                "buildings_count": 4,
+                "application_fees": 5000,
+                "education_system": "American",
+                "application_start": "2025-03-25",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.03178416,
+                    30.25221445
+                ]
+            },
+            "properties": {
+                "id": 22,
+                "address": "شارع 83، حي بنها، بجوار المجلس المحلي",
+                "gov_name": "القليوبية",
+                "school_name": "Banha Governmental School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "بنها",
+                "students_count": 900,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-05",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.93892199,
+                    30.46364512
+                ]
+            },
+            "properties": {
+                "id": 23,
+                "address": "شارع 31، حي طوخ، بجوار مركز الشرطة",
+                "gov_name": "القليوبية",
+                "school_name": "Toukh Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 45000,
+                "district_name": "طوخ",
+                "students_count": 630,
+                "buildings_count": 3,
+                "application_fees": 900,
+                "education_system": "لغات",
+                "application_start": "2025-05-10",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.02337624,
+                    30.54961029
+                ]
+            },
+            "properties": {
+                "id": 24,
+                "address": "شارع 100، حي بولاق الدكرور، بجوار المحكمة",
+                "gov_name": "الجيزة",
+                "school_name": "Bolak El Dakrour Azhar",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "بولاق الدكرور",
+                "students_count": 1080,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-08-01",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.18859369,
+                    30.45863399
+                ]
+            },
+            "properties": {
+                "id": 25,
+                "address": "شارع 61، حي بولاق الدكرور، بجوار الكنيسة",
+                "gov_name": "الجيزة",
+                "school_name": "Bolak El Dakrour British",
+                "school_type": "دولية",
+                "tuition_fees": 260000,
+                "district_name": "بولاق الدكرور",
+                "students_count": 660,
+                "buildings_count": 4,
+                "application_fees": 4200,
+                "education_system": "British",
+                "application_start": "2025-04-01",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.21133153,
+                    30.34654855
+                ]
+            },
+            "properties": {
+                "id": 26,
+                "address": "شارع 48، حي حدائق الأهرام، بجوار بوابة الأهرامات",
+                "gov_name": "الجيزة",
+                "school_name": "Hadayek El Ahram Gov. School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "حدائق الأهرام",
+                "students_count": 1120,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-30",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.20049978,
+                    30.27150157
+                ]
+            },
+            "properties": {
+                "id": 27,
+                "address": "شارع 79، حي حدائق الأهرام، بجوار الجامعة الحديثة",
+                "gov_name": "الجيزة",
+                "school_name": "Hadayek El Ahram Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 75000,
+                "district_name": "حدائق الأهرام",
+                "students_count": 700,
+                "buildings_count": 3,
+                "application_fees": 1300,
+                "education_system": "لغات",
+                "application_start": "2025-05-15",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.18447156,
+                    30.02532547
+                ]
+            },
+            "properties": {
+                "id": 28,
+                "address": "شارع 39، حي الشيخ زايد، بجوار المسجد",
+                "gov_name": "الجيزة",
+                "school_name": "Sheikh Zayed Azhar Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "الشيخ زايد",
+                "students_count": 950,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-08-05",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.17283398,
+                    29.98823937
+                ]
+            },
+            "properties": {
+                "id": 29,
+                "address": "شارع 83، حي الشيخ زايد، بجوار الهايبر ماركت",
+                "gov_name": "الجيزة",
+                "school_name": "Sheikh Zayed International School",
+                "school_type": "دولية",
+                "tuition_fees": 420000,
+                "district_name": "الشيخ زايد",
+                "students_count": 850,
+                "buildings_count": 5,
+                "application_fees": 6500,
+                "education_system": "IG",
+                "application_start": "2025-03-05",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.10743161,
+                    29.98819707
+                ]
+            },
+            "properties": {
+                "id": 30,
+                "address": "شارع 3، حي ساقارة، بجوار الأهرامات",
+                "gov_name": "الجيزة",
+                "school_name": "Saqqara Governmental School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "ساقارة",
+                "students_count": 910,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-05",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.08070197,
+                    29.96134313
+                ]
+            },
+            "properties": {
+                "id": 31,
+                "address": "شارع 27، حي الحوامدية، بجوار المحطة",
+                "gov_name": "الجيزة",
+                "school_name": "Hawamdiya Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 55000,
+                "district_name": "الحوامدية",
+                "students_count": 730,
+                "buildings_count": 3,
+                "application_fees": 1100,
+                "education_system": "لغات",
+                "application_start": "2025-05-20",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.03965006,
+                    30.02230586
+                ]
+            },
+            "properties": {
+                "id": 32,
+                "address": "شارع 61، حي الحوامدية، بجوار المركز التجاري",
+                "gov_name": "الجيزة",
+                "school_name": "Hawamdiya Azhar Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "الحوامدية",
+                "students_count": 1000,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-08-10",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.97625747,
+                    29.98681828
+                ]
+            },
+            "properties": {
+                "id": 33,
+                "address": "شارع 51، حي كفر حكيم، بجوار الكومباوند",
+                "gov_name": "الجيزة",
+                "school_name": "Kafr Hakim International Academy",
+                "school_type": "دولية",
+                "tuition_fees": 300000,
+                "district_name": "كفر حكيم",
+                "students_count": 700,
+                "buildings_count": 4,
+                "application_fees": 4800,
+                "education_system": "American",
+                "application_start": "2025-04-10",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.05135042,
+                    29.98514749
+                ]
+            },
+            "properties": {
+                "id": 34,
+                "address": "شارع 89، حي كفر حكيم، بجوار الجامع الكبير",
+                "gov_name": "الجيزة",
+                "school_name": "Kafr Hakim Governmental School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "كفر حكيم",
+                "students_count": 880,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-10",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.21258027,
+                    29.89453947
+                ]
+            },
+            "properties": {
+                "id": 35,
+                "address": "شارع 50، حي امبابة، بجوار النادي الرياضي",
+                "gov_name": "الجيزة",
+                "school_name": "Imbaba Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 68000,
+                "district_name": "امبابة",
+                "students_count": 670,
+                "buildings_count": 3,
+                "application_fees": 1400,
+                "education_system": "لغات",
+                "application_start": "2025-05-25",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.26982551,
+                    29.87096041
+                ]
+            },
+            "properties": {
+                "id": 36,
+                "address": "شارع 46، حي البراجيل، بجوار المدرسة الثانوية",
+                "gov_name": "الجيزة",
+                "school_name": "Barageel Azhar Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "البراجيل",
+                "students_count": 920,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-08-15",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.23254768,
+                    30.49336094
+                ]
+            },
+            "properties": {
+                "id": 37,
+                "address": "شارع 67، حي البراجيل، بجوار المستشفى",
+                "gov_name": "الجيزة",
+                "school_name": "Barageel International School",
+                "school_type": "دولية",
+                "tuition_fees": 380000,
+                "district_name": "البراجيل",
+                "students_count": 780,
+                "buildings_count": 5,
+                "application_fees": 5800,
+                "education_system": "IG",
+                "application_start": "2025-04-15",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.17170182,
+                    29.93655173
+                ]
+            },
+            "properties": {
+                "id": 38,
+                "address": "شارع 14، حي الزقازيق، بجوار جامعة الزقازيق",
+                "gov_name": "الشرقية",
+                "school_name": "Zagazig Governmental School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "الزقازيق",
+                "students_count": 960,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-15",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.11549451,
+                    30.07531938
+                ]
+            },
+            "properties": {
+                "id": 39,
+                "address": "شارع 3، حي الزقازيق، بجوار النادي",
+                "gov_name": "الشرقية",
+                "school_name": "Zagazig Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 52000,
+                "district_name": "الزقازيق",
+                "students_count": 710,
+                "buildings_count": 3,
+                "application_fees": 950,
+                "education_system": "لغات",
+                "application_start": "2025-05-30",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.06242359,
+                    30.08195844
+                ]
+            },
+            "properties": {
+                "id": 40,
+                "address": "شارع 76، حي العاشر من رمضان، بجوار المسجد",
+                "gov_name": "الشرقية",
+                "school_name": "10th of Ramadan Azhar Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "العاشر من رمضان",
+                "students_count": 1050,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-08-20",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2205646,
+                    30.08344163
+                ]
+            },
+            "properties": {
+                "id": 41,
+                "address": "شارع 92، حي العبور، بجوار المجمع السكني",
+                "gov_name": "القليوبية",
+                "school_name": "Obour City International School",
+                "school_type": "دولية",
+                "tuition_fees": 330000,
+                "district_name": "العبور",
+                "students_count": 690,
+                "buildings_count": 4,
+                "application_fees": 4900,
+                "education_system": "American",
+                "application_start": "2025-04-20",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.18906724,
+                    30.09438293
+                ]
+            },
+            "properties": {
+                "id": 42,
+                "address": "شارع 27، حي العبور، بجوار قسم الشرطة",
+                "gov_name": "القليوبية",
+                "school_name": "Obour City Governmental School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "العبور",
+                "students_count": 930,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-20",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.15154834,
+                    30.08428332
+                ]
+            },
+            "properties": {
+                "id": 43,
+                "address": "شارع 51، حي أشمون، بجوار مركز الشباب",
+                "gov_name": "المنوفية",
+                "school_name": "Ashmoun Elite Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 60000,
+                "district_name": "أشمون",
+                "students_count": 760,
+                "buildings_count": 3,
+                "application_fees": 1050,
+                "education_system": "لغات",
+                "application_start": "2025-06-01",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.35926775,
+                    30.571017
+                ]
+            },
+            "properties": {
+                "id": 44,
+                "address": "شارع 79، حي أشمون، بجوار المعهد الأزهري",
+                "gov_name": "المنوفية",
+                "school_name": "Ashmoun Azhar Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "أشمون",
+                "students_count": 1000,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-08-25",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.58801243,
+                    30.52944867
+                ]
+            },
+            "properties": {
+                "id": 45,
+                "address": "شارع 99، حي شبين القناطر، بجوار النادي",
+                "gov_name": "القليوبية",
+                "school_name": "Shibin El Qanater International",
+                "school_type": "دولية",
+                "tuition_fees": 400000,
+                "district_name": "شبين القناطر",
+                "students_count": 800,
+                "buildings_count": 5,
+                "application_fees": 6000,
+                "education_system": "British",
+                "application_start": "2025-04-25",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.65791599,
+                    30.34636536
+                ]
+            },
+            "properties": {
+                "id": 46,
+                "address": "شارع 30، حي شبين القناطر، بجوار الوحدة المحلية",
+                "gov_name": "القليوبية",
+                "school_name": "Shibin El Qanater Governmental",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "شبين القناطر",
+                "students_count": 970,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-25",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.28245717,
+                    30.27076924
+                ]
+            },
+            "properties": {
+                "id": 47,
+                "address": "شارع 1، حي شبين القناطر، بجوار البنك",
+                "gov_name": "القليوبية",
+                "school_name": "Shibin El Qanater Private School",
+                "school_type": "خاصة",
+                "tuition_fees": 58000,
+                "district_name": "شبين القناطر",
+                "students_count": 720,
+                "buildings_count": 3,
+                "application_fees": 1150,
+                "education_system": "لغات",
+                "application_start": "2025-06-10",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.40989918,
+                    29.98119761
+                ]
+            },
+            "properties": {
+                "id": 48,
+                "address": "شارع 16، حي مصر الجديدة، بجوار النادي",
+                "gov_name": "القاهرة",
+                "school_name": "El Rehab Public School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "مصر الجديدة",
+                "students_count": 980,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-05",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5084917,
+                    29.9852134
+                ]
+            },
+            "properties": {
+                "id": 49,
+                "address": "شارع 74، حي مصر الجديدة، بجوار نادي هليوبوليس",
+                "gov_name": "القاهرة",
+                "school_name": "Cairo American College",
+                "school_type": "دولية",
+                "tuition_fees": 430000,
+                "district_name": "مصر الجديدة",
+                "students_count": 850,
+                "buildings_count": 5,
+                "application_fees": 6800,
+                "education_system": "American",
+                "application_start": "2025-03-01",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.53443212,
+                    29.98126189
+                ]
+            },
+            "properties": {
+                "id": 50,
+                "address": "شارع 39، حي المعادي، بجوار محطة المترو",
+                "gov_name": "القاهرة",
+                "school_name": "Maadi Public School",
+                "school_type": "حكومية",
+                "tuition_fees": 0,
+                "district_name": "المعادي",
+                "students_count": 900,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي",
+                "application_start": "2025-06-15",
+                "educational_levels": "ابتدائي - إعدادي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2661884,
+                    29.9840256
+                ]
+            },
+            "properties": {
+                "id": 51,
+                "address": "شارع 16، حي حدائق حلوان، بجوار المدرسة الجديدة",
+                "gov_name": "الجيزة",
+                "school_name": "Hadayek Helwan Academy",
+                "school_type": "خاصة",
+                "tuition_fees": 62000,
+                "district_name": "حدائق حلوان",
+                "students_count": 700,
+                "buildings_count": 3,
+                "application_fees": 1250,
+                "education_system": "لغات",
+                "application_start": "2025-05-01",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.2015216,
+                    30.0404875
+                ]
+            },
+            "properties": {
+                "id": 52,
+                "address": "شارع 92، حي الدقي، بجوار كوبري الدقي",
+                "gov_name": "الجيزة",
+                "school_name": "Dokki Azhar Institute",
+                "school_type": "أزهرية",
+                "tuition_fees": 0,
+                "district_name": "الدقي",
+                "students_count": 1050,
+                "buildings_count": 2,
+                "application_fees": 0,
+                "education_system": "عربي - علوم شرعية",
+                "application_start": "2025-07-01",
+                "educational_levels": "ابتدائي - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.23737019,
+                    30.0181003
+                ]
+            },
+            "properties": {
+                "id": 53,
+                "address": "شارع 83، حي مصر القديمة، بجوار المتحف",
+                "gov_name": "القاهرة",
+                "school_name": "Misr El Qadima International School",
+                "school_type": "دولية",
+                "tuition_fees": 360000,
+                "district_name": "مصر القديمة",
+                "students_count": 750,
+                "buildings_count": 4,
+                "application_fees": 5500,
+                "education_system": "IG",
+                "application_start": "2025-03-10",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.21888106,
+                    30.06480603
+                ]
+            },
+            "properties": {
+                "id": 54,
+                "address": "شارع 19، حي الزمالك، بجوار السفارة",
+                "gov_name": "القاهرة",
+                "school_name": "Zamalek American School",
+                "school_type": "دولية",
+                "tuition_fees": 410000,
+                "district_name": "الزمالك",
+                "students_count": 880,
+                "buildings_count": 5,
+                "application_fees": 6200,
+                "education_system": "American",
+                "application_start": "2025-03-05",
+                "educational_levels": "KG - ثانوي",
+                "required_documents": null
+            }
+        }
+    ]
+}

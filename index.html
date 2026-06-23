@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Explorer</title>
+    <!--  Google Fonts -->
+   <link href="https://fonts.googleapis.com/css2?family=Cairo&family=Poppins&display=swap" rel="stylesheet">
+
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Leaflet css -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header id="app-header"> 
+        <img class="logo" src="./icons/school_icon.svg">
+        <h1 id="title"> School Explorer </h1> 
+    </header>
+    <!-- Language -->
+    <div id="language-switcher">
+        <button onclick="switchLang('en')">EN</button> | 
+        <button onclick="switchLang('ar')">AR</button>
+    </div>
+
+    <!-- Main -->
+    <main id="container">
+        <aside id="sidebar">
+            <div class="filter-group">
+                <label id="label-gov" for="gov-select">Governorate</label>
+                <select id="gov-select">
+                    <option id="opt-gov-default" value="">All Governorates</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label id="label-dist" for="dist-select">District / City</label>
+                <select id="dist-select" disabled>
+                    <option id="opt-dist-default" value="">Select District</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <button id="reset-btn" class="secondary-btn">Reset Filters</button>
+            </div>
+
+            <div id="counter">
+                <span id="label-total">Total Schools: </span>
+                <span id="count-number">0</span>
+            </div>
+        </aside>
+
+        <div id='map'></div>
+    </main>
+    
+    <footer id="app-footer">
+        <p>
+            &copy; Hager Hamdy 2025 | WebGIS Template |
+            <a href="www.linkedin.com/in/hager-hamdy-dev" target="_blank">LinkedIn</a> |
+            <a href="https://github.com/hagerhamdy-dev" target="_blank">GitHub</a>
+        </p>
+    </footer>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <!-- Custom JS -->
+    <script src="script.js"></script>
+    
+</body>
+</html>
