@@ -36,7 +36,7 @@ The interface is fully bilingual (Arabic RTL / English LTR), reflecting the real
 | Styling | CSS3 (Flexbox, Grid) |
 | Localization | Custom RTL/LTR layout switching |
 
-## 🚀 Running Locally
+## Running Locally
 
 This is a static front-end application — no build step required.
 
@@ -60,8 +60,6 @@ This is a static front-end application — no build step required.
 
 ## 👤 Author
 **Hager Hamdy** — Web GIS Developer
-[LinkedIn](www.linkedin.com/in/hager-hamdy-dev) · [GitHub](https://github.com/hagerhamdy-dev)
-
-
+[LinkedIn](https://www.linkedin.com/in/hager-hamdy-dev/) · [GitHub](https://github.com/hagerhamdy-dev)
 **Hager Hamdy** — Web GIS Developer
 [LinkedIn](#) · [GitHub](#)
